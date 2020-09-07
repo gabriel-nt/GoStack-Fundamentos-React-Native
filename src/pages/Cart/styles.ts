@@ -47,6 +47,7 @@ export const ProductPriceContainer = styled.View`
 export const TotalContainer = styled.View`
   flex-direction: row;
   margin-top: 8px;
+  /* justify-content: space-between; */
 `;
 
 export const ProductSinglePrice = styled.Text`
